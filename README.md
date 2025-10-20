@@ -8,9 +8,9 @@ height="320px">
 
 --------------
 
-#### 😁 Olá, me chamo Miguel da Silva Campos!
+### 😁 Olá, me chamo Miguel da Silva Campos!
 
-#### 🏫  Sou estudante do 2° Semestre do curso de Analise e Desenvolvimento de Sistemas (ADS)
+### 🏫  Sou estudante do 2° Semestre do curso de Analise e Desenvolvimento de Sistemas (ADS)
 
 ## Minhas Tecnologias
 
