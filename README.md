@@ -17,7 +17,7 @@ height=""></p>
 <p align="center"><img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"> <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"> <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"></center></p>
 
 -------------
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gueguel12&show_icons=true&theme=radical)
+<p> <img width="120px" src="https://github-readme-stats.vercel.app/api?username=Gueguel12&show_icons=true&theme=radical"></p>
 
 
 
