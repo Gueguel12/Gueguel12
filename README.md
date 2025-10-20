@@ -1,16 +1,6 @@
-## Hi there 👋
+## Bem Vindos ao Meu Github! **👋**
 
-<!-- Cabeçalhos -->
-
-*italico* _italico_
-
-__negrito__ **negrito**
-
-***negrito e italico***
-
-- Lista 1
-- Lista 2
-    - Sublista
+![Gif de Referencia](https://c.tenor.com/-qXuda8L3TYAAAAC/tenor.gif)
 
 <!--
 **Gueguel12/Gueguel12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
