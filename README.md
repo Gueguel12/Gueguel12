@@ -1,9 +1,8 @@
-<h2> Bem Vindos ao Meu Github!🙋</h2>
+<center><h2> Bem Vindos ao Meu Github!🙋</h2></center>
 
 <center><figure><img src="https://c.tenor.com/-qXuda8L3TYAAAAC/tenor.gif"
 width="500px"
-height="320px"
-text-align: center>
+height="320px">
 
 </figure></center>
 
