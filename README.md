@@ -1,6 +1,10 @@
-## Bem Vindos ao Meu Github! **👋**
+<center><h2> Bem Vindos ao Meu Github!👋</h2></center>
 
-![Gif de Referencia](https://c.tenor.com/-qXuda8L3TYAAAAC/tenor.gif)
+<figure><img src="https://c.tenor.com/-qXuda8L3TYAAAAC/tenor.gif"
+width="300px"
+height="320px">
+
+</figure>
 
 <!--
 **Gueguel12/Gueguel12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
