@@ -2,7 +2,8 @@
 
 <center><figure><img src="https://c.tenor.com/-qXuda8L3TYAAAAC/tenor.gif"
 width="500px"
-height="320px">
+height="320px"
+text-align: center>
 
 </figure></center>
 
