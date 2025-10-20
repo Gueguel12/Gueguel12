@@ -1,7 +1,7 @@
 # Bem Vindos ao Meu Github!🙋
 
 <center><figure><img src="https://c.tenor.com/-qXuda8L3TYAAAAC/tenor.gif"
-width="200px"
+width="350px"
 height="">
 
 </figure></center>
